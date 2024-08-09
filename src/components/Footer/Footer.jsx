@@ -3,10 +3,10 @@ import dataJson from '../../data/data.json';
 
 const Footer = () => {
   return (
-    <div className="flex justify-center py-5">
+    <div className="flex justify-center py-2 border-gray mt-10">
       {' '}
       {/* Menambahkan flex untuk meratakan */}
-      <img src={dataJson.footer} alt="Header" className="mb-10 w-96 opacity-50 hover:opacity-100" />
+      <img src={dataJson.footer} alt="Footer" className="w-28" />
     </div>
   );
 };

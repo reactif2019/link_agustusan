@@ -1,42 +1,54 @@
 {
-  "header": "/asset/images/header/header.png",
-  "footer": "/asset/images/footer/reactif.png",
+  "header": "/link_agustusan/assets/images/header/header.png",
+  "footer": "/link_agustusan/assets/images/footer/reactif.png",
   "buttons": [
     {
       "id": 1,
-      "imageSrc": "/asset/images/button/ig.png",
+      "imageSrc": "/link_agustusan/assets/images/button/ig.PNG",
       "text": "Instagram",
       "link": "https://www.instagram.com/reactif.id/"
     },
     {
       "id": 2,
-      "imageSrc": "/asset/images/button/3.png",
+      "imageSrc": "/link_agustusan/assets/images/button/filterr.gif",
       "text": "Filter Instagram",
       "link": "https://www.instagram.com/ar/750913623732272/"
     },
     {
       "id": 3,
-      "imageSrc": "/asset/images/button/1.png",
+      "imageSrc": "/link_agustusan/assets/images/button/document.png",
+      "text": "Juknis Lomba",
+      "link": "https://drive.google.com/file/d/1SHnLliPdnZYK8BCnSl28IfcVihKWy01D/view?usp=sharing"
+    },
+    {
+      "id": 4,
+      "imageSrc": "/link_agustusan/assets/images/button/1.png",
       "text": "Twibbon Lomba 1",
       "link": "https://supertwibbon.com/ReactifAgustusan2"
     },
     {
-      "id": 4,
-      "imageSrc": "/asset/images/button/2.png",
+      "id": 5,
+      "imageSrc": "/link_agustusan/assets/images/button/2.png",
       "text": "Twibbon Lomba 2",
       "link": "https://supertwibbon.com/ReactifAgustusan3"
     },
     {
-      "id": 5,
-      "imageSrc": "/asset/images/button/3.png",
+      "id": 6,
+      "imageSrc": "/link_agustusan/assets/images/button/3.png",
       "text": "Twibbon Lomba 3",
       "link": "https://supertwibbon.com/ReactifAgustusan"
     },
     {
-      "id": 6,
-      "imageSrc": "/asset/images/button/34.jpg",
-      "text": "Juknis Lomba",
-      "link": "https://drive.google.com/file/d/1uXju35V5VRBHXnBDVEaaJtBX_e7lUafG/view?usp=sharing"
+      "id": 7,
+      "imageSrc": "/link_agustusan/assets/images/button/poster.png",
+      "text": "Poster Lomba",
+      "link": "https://drive.google.com/file/d/1h5uDhoDzcKy8HBGwnEg0rY_j0ufv0fmb/view?usp=sharing"
+    },
+    {
+      "id": 8,
+      "imageSrc": "/link_agustusan/assets/images/button/video promosi.gif",
+      "text": "Video Promosi",
+      "link": "https://drive.google.com/file/d/1Xo0tpcgLlvKIZoVEu_fomQjZCmTLs_K7/view?usp=sharing"
     }
   ]
 }
